@@ -53,7 +53,7 @@
 
 <bean id="dataSourcecmpm" class="org.apache.commons.dbcp.BasicDataSource">
 		<property name="driverClassName" value="com.mysql.jdbc.Driver" />
-		<property name="url" value="jdbc:mysql://127.0.0.1/mzywpt" />
+		<property name="url" value="jdbc:mysql://192.168.1.38/mzywpt" />
 		<property name="username" value="dlwy" />
 		<property name="password" value="dlwy" />
 		<property name="maxActive" value="20" />

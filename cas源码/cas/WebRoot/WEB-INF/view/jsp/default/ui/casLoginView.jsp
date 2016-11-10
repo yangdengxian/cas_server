@@ -71,7 +71,27 @@
             </form:form>
           </div>
      </div>
+     <div class="fore-login-msg clear">
+     	<h2 class="fore-login-msg-browser">建议使用IE9以上浏览器或者谷歌浏览器访问，三维视图仅支持IE9以上浏览器
+     	</h2>
+     	<h2 class="fore-login-msg-org">版权所有：梅州林业局</h2>
+     </div>
 </div>
+<style type="text/css">
+	.fore-login-msg {
+		position: relative;
+	    width: 666px;
+	    height: 100px;
+	    top: 450px;
+	    left: 50%;
+	    margin-left: -333px;
+	}
+	.fore-login-msg h2{
+		color: #FFF;
+		text-align: center;
+		text-shadow: 0 0 0.1em #000;
+	}
+</style>
 
             
            
